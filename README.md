@@ -4,7 +4,6 @@
 
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=whith)
-![DB](https://img.shields.io/badge/maira-003545?style=for-the-badge&logo=mariaDb&logoColor=whith)
 ![c#](https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=whith)
 ![linuxu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=whith)
 ![game1](https://img.shields.io/badge/minecraft-62B47A?style=for-the-badge&logo=Minecraft&logoColor=whith)
