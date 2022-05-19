@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=New|Create&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Slowly&fontSize=70)
 
 
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
