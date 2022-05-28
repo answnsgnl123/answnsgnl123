@@ -1,2 +1,23 @@
-<h2>Hi,
-Nice to meet you I'm Jum<img src="https://media1.giphy.com/media/LrXAkOxhUT1S0/giphy.gif?cid=ecf05e47qwsva15kno2e3tzru1p3ovbu9akgkvmpk7fhfrao&rid=giphy.gif&ct=g" width="50"></h2>
+<h2>
+<img src="https://media1.giphy.com/media/dUrwf15oqr6Dds6g6U/giphy.gif?cid=ecf05e47rzg2n23w11afb5xol56wf0lyodrgchzqlumja0v7&rid=giphy.gif&ct=s" width="25"> Hi, Nice to meet you I'm Jun <img src="https://media1.giphy.com/media/LrXAkOxhUT1S0/giphy.gif?cid=ecf05e47qwsva15kno2e3tzru1p3ovbu9akgkvmpk7fhfrao&rid=giphy.gif&ct=g" width="50"></h2>
+
+<p>- I am a <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/255px-Flag_of_South_Korea.svg.png" width="25"> Korean who dreams of becoming a developer!
+<img align="left" src="https://media3.giphy.com/media/WtgdtRAtXVEVwd7aax/giphy.gif?cid=ecf05e47dz3iixxwsrgk0800qc6dxvp47me985rk6zuph567&rid=giphy.gif&ct=s" width="25">
+- Concentration is good, but I want to be immersed.
+</p>
+
+### <img src="https://media2.giphy.com/media/Za985AFQHREMZYnXkE/giphy.gif?cid=ecf05e47d24mqh3i0mliavkda7nb28d7hzhp561ke4c0x1bh&rid=giphy.gif&ct=s" width="25"> My Favorite Topic <img src="https://media1.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e472p2g1wqvaqez1reihbsyswzgjz8t87z9c70mg3w8&rid=giphy.gif&ct=g" width="100">
+<hr>
+<p align=center>
+  
+<img src="https://img.shields.io/badge/Js-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" width="55">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=black" width="75">
+<img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=Node.js&logoColor=black" width="75">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=black" width="90">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" width="90">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black" width="85"> 
+
+</p>
+
+### <img src="https://media2.giphy.com/media/KfSOWTWvN03AktOl5Q/giphy.gif?cid=ecf05e474izplqr5j2ewn6p3xph3hjsmm3mgp60s1q2g8bbm&rid=giphy.gif&ct=s" width="50">  My Favorite IDE and Tool
+  
