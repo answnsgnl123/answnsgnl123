@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://solved.ac/answnsgnl123">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lys7442" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=answnsgnl123" />
   </a>
 </p>
 
